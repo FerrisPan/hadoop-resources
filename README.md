@@ -9,7 +9,6 @@ Hadoop相关学习资源汇总,随时更新，欢迎补充。
 # 电子书籍
 * [Hadoop电子书](http://pan.baidu.com/s/1eQxt7yU) 
 * [Storm电子书](http://pan.baidu.com/s/1bndMQLp)
-* [The Docker Book](http://www.dockerbook.com/)
 
 # 学习网站
 * [官方Hadoop快速入门](http://hadoop.apache.org/docs/r1.0.4/cn/quickstart.html) 
