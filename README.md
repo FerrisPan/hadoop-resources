@@ -13,6 +13,7 @@ Hadoop相关学习资源汇总,随时更新，欢迎补充。
 
 # 学习网站
 * [官方Hadoop快速入门](http://hadoop.apache.org/docs/r1.0.4/cn/quickstart.html) 
+* [about云](http://www.aboutyun.com/) (强烈推荐)
 * [炼数成金](http://www.dataguru.cn/)
 
 # 学习视频
